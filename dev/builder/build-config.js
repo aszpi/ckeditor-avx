@@ -14,10 +14,13 @@ var CKBUILDER_CONFIG = {
 		'bender-err.log',
 		'bender-out.log',
 		'.travis.yml',
+		'contents.css',
+		'CHANGES.md',
 		'dev',
 		'docs',
 		'.DS_Store',
 		'.editorconfig',
+		'.github',
 		'.gitignore',
 		'.gitattributes',
 		'.github',
@@ -32,6 +35,9 @@ var CKBUILDER_CONFIG = {
 		'node_modules',
 		'package.json',
 		'README.md',
+		'samples',
+		'skins/kama',
+		'skins/moono',
 		'tests'
 	],
 	plugins: {
