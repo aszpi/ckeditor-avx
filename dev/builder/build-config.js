@@ -55,7 +55,6 @@ var CKBUILDER_CONFIG = {
 		'plugins/balloontoolbar',
 		'plugins/bidi',
 		'plugins/cloudservices',
-		'plugins/codesnippet',
 		'plugins/codesnippetgeshi',
 		'plugins/colordialog',
 		'plugins/contextmenu',
