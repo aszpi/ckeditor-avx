@@ -47,10 +47,10 @@ var CKBUILDER_CONFIG = {
 		'plugins/about',
 		'plugins/adobeair',
 		'plugins/ajax',
+		'plugins/attachment',
 		'plugins/autocomplete',
 		'plugins/autoembed',
 		'plugins/autolink',
-		'plugins/attachment',
 		'plugins/balloonpanel',
 		'plugins/balloontoolbar',
 		'plugins/bidi',
@@ -135,6 +135,7 @@ var CKBUILDER_CONFIG = {
 		'plugins/wysiwygarea'
 	],
 	plugins : {
+		'attachment' : 1,
 		'autogrow' : 1,
 		'basicstyles' : 1,
 		'bbcode' : 1,
