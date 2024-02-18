@@ -64,7 +64,6 @@ var CKBUILDER_CONFIG = {
 		'plugins/contextmenu',
 		'plugins/copyformatting',
 		'plugins/devtools',
-		'plugins/dialog',
 		'plugins/dialogadvtab',
 		'plugins/div',
 		'plugins/divarea',
