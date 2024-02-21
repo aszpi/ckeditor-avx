@@ -1,6 +1,6 @@
-# CKEditor 4.2.11-based phpBB-ready Smart WYSIWYG HTML editor 
+# CKEditor 4.2.11-based phpBB-ready Smart WYSIWYG HTML editor, customized for AVXforum 
 
-Although this variant of the phpbb-ready WYSIWYG-editor is solely made for avxforum, you may find it useful for your own pusposes, too. If so, feel free to use it under the license terms stated below. If you are an avxforum user, and want to contribute to bugfixing or further development, please contact me on github or on avxforum.hu (I am Aszpirin over there :) )
+Although this variant of the phpbb-ready WYSIWYG-editor is solely intended for avxforum, you may find it useful for your own pusposes, too. If so, feel free to use it under the license terms stated below by the original authors. If you are an avxforum user, and want to contribute to bugfixing or further development, please contact me on github or on avxforum.hu (I am Aszpirin over there :) )
 
 the avxforum-optimized variant of CKEditor 4 is now (re-)based on the latest free CKEditor4-version, 4.22.1
 it contains all of Jakub Senko's modifications to the CKEditor4 in order to make the editor phpBB-ready.
@@ -151,17 +151,11 @@ Use the [CKEditor 4 GitHub issue page](https://github.com/ckeditor/ckeditor4/iss
 ### License
 
 Copyright (c) 2003-2023, CKSource Holding sp. z o.o. All rights reserved.
+phpBB-customizations done by Jakub Senko, see upstream repository.
+Rebasing of these modifications onto 4.22.1 as well as AVXforum-customizations and bugfixes done by Attila Szabo
 
-For licensing, see LICENSE.md or [https://ckeditor.com/legal/ckeditor-oss-license](https://ckeditor.com/legal/ckeditor-oss-license)
-
-#### CKEditor 4.22.1 and below
-
-CKEditor 4 until version 4.22.1 was licensed under the terms of any of the following licenses of your choice:
+This variant of the CKEditor is based on the CKEditor 4.22.1 and is licensed under the terms of any of the following licenses of your choice:
 
  - GNU General Public License Version 2 or later.
  - GNU Lesser General Public License Version 2.1 or later.
  - Mozilla Public License Version 1.1 or later.
-
-#### CKEditor 4.23.0-lts and above
-
-CKEditor 4 LTS (starting from version 4.23.0-lts) is available under a commercial license only.
