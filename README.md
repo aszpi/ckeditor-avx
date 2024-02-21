@@ -3,14 +3,11 @@
 Although this variant of the phpbb-ready WYSIWYG-editor is solely intended for avxforum, you may find it useful for your own pusposes, too. If so, feel free to use it under the license terms stated below by the original authors. If you are an avxforum user, and want to contribute to bugfixing or further development, please contact me on github or on avxforum.hu (I am Aszpirin over there :) )
 
 the avxforum-optimized variant of CKEditor 4 is now (re-)based on the latest free CKEditor4-version, 4.22.1
-it contains all of Jakub Senko's modifications to the CKEditor4 in order to make the editor phpBB-ready.
-
-ATTENTION: Usage of any kater version of CKEditor 4 requires commercial (=paid) licensing from original copyright owners of CKEditor! 
-
+it contains all of senky's modifications to the CKEditor4 in order to make the editor phpBB-ready.
 
 ## About this repository
 
-## Please do not use the master branch in this repository! "stable" is the default branch. Using anything from master branch after the 4.22.1 tag without leads to copyright infringement! for further information please visit https://github.com/ckeditor/ckeditor4
+## Please do not use the master branch in this repository! "stable" is the default branch. Using anything from master branch after the 4.22.1 tag needs commercial licensing from the original copyright owners of CKEditor4! for further information please visit https://github.com/ckeditor/ckeditor4
 
 ### Getting CKEditor 4 (Open Source)
 
@@ -151,8 +148,8 @@ Use the [CKEditor 4 GitHub issue page](https://github.com/ckeditor/ckeditor4/iss
 ### License
 
 Copyright (c) 2003-2023, CKSource Holding sp. z o.o. All rights reserved.
-phpBB-customizations done by Jakub Senko, see upstream repository.
-Rebasing of these modifications onto 4.22.1 as well as AVXforum-customizations and bugfixes done by Attila Szabo
+phpBB-customizations done by senky, see upstream repository.
+Rebasing of these modifications onto 4.22.1 as well as AVXforum-customizations and bugfixes done by aszpi (Attila Szabó)
 
 This variant of the CKEditor is based on the CKEditor 4.22.1 and is licensed under the terms of any of the following licenses of your choice:
 
