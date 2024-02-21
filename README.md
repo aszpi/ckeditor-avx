@@ -1,55 +1,22 @@
-# CKEditor 4 LTS - Smart WYSIWYG HTML editor [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20CKEditor%204%20on%20GitHub&url=https%3A%2F%2Fgithub.com%2Fckeditor%2Fckeditor4)
+# CKEditor 4.2.11-based phpBB-ready Smart WYSIWYG HTML editor 
 
-[![npm version](https://badge.fury.io/js/ckeditor4.svg)](https://www.npmjs.com/package/ckeditor4)
-[![GitHub tag](https://img.shields.io/github/tag/ckeditor/ckeditor4.svg)](https://github.com/ckeditor/ckeditor4)
-[![Build Status](https://app.travis-ci.com/ckeditor/ckeditor4.svg?branch=master)](https://app.travis-ci.com/ckeditor/ckeditor4)
+Although this variant of the phpbb-ready WYSIWYG-editor is solely made for avxforum, you may find it useful for your own pusposes, too. If so, feel free to use it under the license terms stated below. If you are an avxforum user, and want to contribute to bugfixing or further development, please contact me on github or on avxforum.hu (I am Aszpirin over there :) )
 
+the avxforum-optimized variant of CKEditor 4 is now (re-)based on the latest free CKEditor4-version, 4.22.1
+it contains all of Jakub Senko's modifications to the CKEditor4 in order to make the editor phpBB-ready.
 
-[![Join newsletter](https://img.shields.io/badge/join-newsletter-00cc99.svg)](http://eepurl.com/c3zRPr)
-[![Follow Twitter](https://img.shields.io/badge/follow-twitter-00cc99.svg)](https://twitter.com/ckeditor)
+ATTENTION: Usage of any kater version of CKEditor 4 requires commercial (=paid) licensing from original copyright owners of CKEditor! 
 
-## ⚠️ CKEditor 4: End of Life and Extended Support Model until Dec 2026
-
-CKEditor 4 was launched in 2012 and reached its End of Life (EOL) on June 30, 2023.
-
-A special edition, **[CKEditor 4 LTS](https://ckeditor.com/ckeditor-4-support/)** ("Long Term Support"), is available under commercial terms (["Extended Support Model"](https://ckeditor.com/ckeditor-4-support/)) for anyone looking to **extend the coverage of security updates and critical bug fixes**.
-
-With CKEditor 4 LTS, security updates and critical bug fixes are guaranteed until December 2026.
 
 ## About this repository
 
-### Master branch = CKEditor 4 LTS
-
-After June 30, 2023 the `master` version of the [LICENSE.md](https://github.com/ckeditor/ckeditor4/blob/master/LICENSE.md) file changed to reflect the license of CKEditor 4 LTS available under the Extended Support Model.
-
-This repository now contains the source code of CKEditor 4 LTS that is protected by copyright law.
+## Please do not use the master branch in this repository! "stable" is the default branch. Using anything from master branch after the 4.22.1 tag without leads to copyright infringement! for further information please visit https://github.com/ckeditor/ckeditor4
 
 ### Getting CKEditor 4 (Open Source)
 
-You may continue using CKEditor 4.22.1 and below under the open source license terms. Please note, however, that the open source version no longer comes with any security updates, so your application will be at risk.
+You may continue using the stable branch of this repository, since it's (re)based onto CKEditor 4.22.1, as well as anything tagged with 4.22.1 and below under the open source license terms. 
+Please note, however, that this open source version nught not contain crucial security updates, so use it at your own risk.
 
-In order to download the open source version of CKEditor 4, use ****tags 4.22.1 and below****. CKEditor 4.22.1 was the last version of CKEditor 4 available under the open source license terms.
-
-## Summary of options after the CKEditor 4 End of Life
-
-### Upgrading to CKEditor 5
-
-CKEditor 5 is a great new editor with [lots of exciting features](https://ckeditor.com/docs/ckeditor5/latest/features/index.html).
-
-Before upgrading, please be aware of the following changes:
-
-- CKEditor 5 is a completely new editor. **Upgrading is not as simple as replacing the folder with "ckeditor"** - read more in the [Migration from CKEditor 4](https://ckeditor.com/docs/ckeditor5/latest/updating/ckeditor4/migration-from-ckeditor-4.html) guide.
-- CKEditor 5 is available only under the GPL copyleft license (or under a commercial license).
-- Open source projects with a GPL-incompatible license may apply for a license under the [Free for Open Source](https://ckeditor.com/wysiwyg-editor-open-source/) program.
-
-### Using an outdated, unsupported version
-
-You may continue using CKEditor 4.22.1 (or below). The license terms of the older CKEditor 4 versions have not changed. However, please note that by using software that is no longer maintained, you are introducing a **security risk to your application**.
-
-### Signing an "Extended Support Model" contract
-
-If you are not ready to replace CKEditor 4 in your application yet, you may continue using CKEditor 4 until December 2026.
-CKEditor 4 LTS, available under the "Extended Support Model", will ship all important security updates and critical bug fixes, providing an interrupted editing experience for your end users. Please note that this version of CKEditor 4 is available only under a special agreement and requires a license key.
 
 ## About CKEditor 4
 
